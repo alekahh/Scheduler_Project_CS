@@ -1,13 +1,13 @@
 # **Study room scheduler app**
 
 ## What will the application do?
-* The application will help people schedule and book study rooms at student residence. Users can create, reschedule, delete their booking slots using this app.
+* The application will help people schedule and book study rooms. Users can create, reschedule, delete their booking slots using this app.
 
 ## Who will use it?
-* UBC students and staff, in general, can use this app to book study places at student residence.
+* CityU students and staff, in general, can use this app to book study places.
 
 ## Why is this project of interest to you?
-* I am interested in this project because I want to learn more about making scheduling apps and would like to organize a little mess with booking study rooms at my student residence.
+* I am interested in this project because I want to learn more about making scheduling apps and would like to organize a little mess with booking study rooms.
 
 ## User Stories
 * As a *user*, I want to be able to *list* all the available timeslots.
